@@ -12,6 +12,10 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/Day5_homework.sql)
 
+
+### Q. [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)
+#### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59403.sql)
+
 ## Q. [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
 ### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59408.sql)
 
