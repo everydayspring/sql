@@ -16,14 +16,14 @@
 ### Q. [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)
 #### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59403.sql)
 
-## Q. [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
-### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59408.sql)
+### Q. [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
+#### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59408.sql)
 
-## Q. [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035)
-### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59035.sql)
+### Q. [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035)
+#### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59035.sql)
 
-## Q. [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)
-### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59407.sql)
+### Q. [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)
+#### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59407.sql)
 
 
 
