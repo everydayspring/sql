@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/Day5_homework.sql)
 
+### Q. [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)
+#### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59405.sql)
+
 ### Q. [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)
 #### A. [Solution](https://github.com/everydayspring/SQL/blob/main/Q59036.sql)
 
