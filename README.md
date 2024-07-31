@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59404.sql)
+
 #### Q. [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59037.sql)
 
