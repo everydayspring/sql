@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131697.sql)
+
 #### Q. [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131528.sql)
 
