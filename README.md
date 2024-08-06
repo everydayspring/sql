@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59410.sql)
+
 #### Q. [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131697.sql)
 
