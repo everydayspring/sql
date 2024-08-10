@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59414.sql)
+
 #### Q. [강원도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131112.sql)
 
