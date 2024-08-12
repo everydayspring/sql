@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q132203.sql)
+
 #### Q. [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59414.sql)
 
