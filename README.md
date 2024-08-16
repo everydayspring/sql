@@ -12,6 +12,12 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131535.sql)
+
+#### Q. [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59039.sql)
+
 #### Q. [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q132203.sql)
 
