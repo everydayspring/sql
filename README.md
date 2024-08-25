@@ -12,6 +12,21 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q132202.sql)
+
+#### Q. [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59412.sql)
+
+#### Q. [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59040.sql)
+
+#### Q. [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131529.sql)
+
+#### Q. [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59409.sql)
+
 #### Q. [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131535.sql)
 
