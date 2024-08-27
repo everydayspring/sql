@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q133024.sql)
+
 #### Q. [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q132201.sql)
 
