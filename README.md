@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q151137.sql)
+
 #### Q. [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q133024.sql)
 
