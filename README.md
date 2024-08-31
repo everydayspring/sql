@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q144855.sql)
+
 #### Q. [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59044.sql)
 
