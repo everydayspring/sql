@@ -10,8 +10,22 @@
 - [Day4](https://github.com/everydayspring/SQL/blob/main/Day4.sql)
 - [Day4_homework](https://github.com/everydayspring/SQL/blob/main/class/Day4_homework.sql)
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
-
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
+
+#### Q. [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q144854.sql)
+
+#### Q. [보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59045.sql)
+
+#### Q. [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59411.sql)
+
+#### Q. [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59043.sql)
+
+#### Q. [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131533.sql)
 
 #### Q. [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q144855.sql)
