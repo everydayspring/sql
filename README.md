@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131113.sql)
+
 #### Q. [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q144854.sql)
 
