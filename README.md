@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59046.sql)
+
 #### Q. [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q133026.sql)
 
