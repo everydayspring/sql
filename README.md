@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q144853.sql)
+
 #### Q. [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59046.sql)
 
