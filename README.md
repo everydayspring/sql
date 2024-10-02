@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131530.sql)
+
 #### Q. [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q164668.sql)
 
