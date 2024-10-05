@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q157341.sql)
+
 #### Q. [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131120.sql)
 
