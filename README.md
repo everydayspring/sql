@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59034.sql)
+
 #### Q. [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q133025.sql)
 
