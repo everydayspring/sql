@@ -12,6 +12,9 @@
 - [Day5](https://github.com/everydayspring/SQL/blob/main/Day5.sql)
 - [Day5_homework](https://github.com/everydayspring/SQL/blob/main/class/Day5_homework.sql)
 
+#### Q. [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536)
+##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131536.sql)
+
 #### Q. [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q59042.sql)
 
