@@ -42,7 +42,7 @@
 #### Q. [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530)
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q131530.sql)
 
-#### Q. [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)
+#### Q. [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)  
 ##### A. [Solution](https://github.com/everydayspring/SQL/blob/main/study/Q164668.sql)
 
 #### Q. [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136)
